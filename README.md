@@ -56,7 +56,7 @@ The dataset includes the following columns:
   - Scatter plot comparing Speed of Answer vs Satisfaction (showing that faster response doesn’t always correlate with better satisfaction).
   - Tree map summarizing performance by department and agent.
   
-![Page 2 Screenshot](
+![Page 2 Screenshot](https://github.com/swarajRB/Call_Center_Performance_Analysis_OptiConnect_PowerBI/blob/main/screenshots/Dashboard_Page2_Performance_Trends.png)
 
 - **Table**: Performance breakdown for agents, with details on their Average Rating, Answered %, and Resolved %.
 
