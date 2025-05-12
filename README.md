@@ -42,7 +42,7 @@ The dataset includes the following columns:
   - Resolved Calls: 1311 (74%)
   - Average Satisfaction Score: 3.45 / 5
   
-![Page 1 Screenshot](screenshots/page1_screenshot.png)
+![Page 1 Screenshot](https://github.com/swarajRB/Call_Center_Performance_Analysis_OptiConnect_PowerBI/blob/main/screenshots/Dashboard_Page1_Service_Overview.png)
 
 - **Charts**:
   - Donut charts showing the distribution of Answered vs Not Answered calls and Resolved vs Not Resolved calls.
